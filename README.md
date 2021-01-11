@@ -22,4 +22,5 @@ Figur 1:
 
 ![figur 2](https://cdn.discordapp.com/attachments/795551757634633759/798138856712830976/unknown.png)
 
-https://github.com/AlliAllo/Tello-drone/blob/main/sound%20thingy.py
+Tello drone kode:
+"https://github.com/AlliAllo/Tello-drone/blob/main/sound%20thingy.py"
