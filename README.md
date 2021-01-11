@@ -13,6 +13,7 @@ Vi lærte om ardiuno, hvilket var spændnende, men svært at forstå, uden viden
 Systemdesign:
 Her lærte vi om at lave flowcharts, blok og- UML diagram. 
 
-![Image of Yaktocat](https://cdn.discordapp.com/attachments/795551757634633759/798138463656345600/unknown.png)
+
+![figur 1](https://cdn.discordapp.com/attachments/795551757634633759/798138463656345600/unknown.png)
 
 h
