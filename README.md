@@ -20,11 +20,11 @@ Figur 1:
 
 ![figur 1](https://cdn.discordapp.com/attachments/795551757634633759/798138463656345600/unknown.png)
 
-
 ![figur 2](https://cdn.discordapp.com/attachments/795551757634633759/798138856712830976/unknown.png)
 
+![figur 3](https://cdn.discordapp.com/attachments/795551757634633759/798141221696569344/unknown.png)
 
-![figur 2](https://cdn.discordapp.com/attachments/795551757634633759/798141221696569344/unknown.png)
+![figur 4](https://cdn.discordapp.com/attachments/795551757634633759/798141502952964116/unknown.png)
 
 
 Tello drone kode:
