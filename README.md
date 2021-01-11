@@ -10,7 +10,7 @@ Vi snakkede om passwords og hvordan man kan få adgang til dem. Vi lærte også 
 Programmering:
 Vi lærte om ardiuno, hvilket var spændnende, men svært at forstå, uden viden om C++.
 
-Systemdesign:
+```Systemdesign:```
 Her lærte vi om at lave flowcharts, blok og- UML diagram. 
 
 
@@ -23,4 +23,4 @@ Figur 1:
 ![figur 2](https://cdn.discordapp.com/attachments/795551757634633759/798138856712830976/unknown.png)
 
 Tello drone kode:
-"https://github.com/AlliAllo/Tello-drone/blob/main/sound%20thingy.py"
+https://github.com/AlliAllo/Tello-drone/blob/main/sound%20thingy.py
