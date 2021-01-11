@@ -11,7 +11,7 @@ Programmering:
 Vi lærte om ardiuno, hvilket var spændnende, men svært at forstå, uden viden om C++.
 
 
-#Systemdesign:#
+"Systemdesign:"
 Her lærte vi om at lave flowcharts, blok og- UML diagram. 
 
 
