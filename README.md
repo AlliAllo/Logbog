@@ -15,3 +15,4 @@ Her lærte vi om at lave flowcharts, blok og- UML diagram.
 
 ![Image of Yaktocat](https://cdn.discordapp.com/attachments/795551757634633759/798138463656345600/unknown.png)
 
+h
